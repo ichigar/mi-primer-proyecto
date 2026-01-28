@@ -3,3 +3,4 @@ línea creada desde la nube
 otra mas
 texto
 conflicto desde local
+conflicto desde la web
